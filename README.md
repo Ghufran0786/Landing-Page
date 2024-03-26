@@ -1,3 +1,3 @@
 # Landing-Page
 
-It's a Simpler Developer Landing Page.
+It's a Simple Developer Landing Page.
